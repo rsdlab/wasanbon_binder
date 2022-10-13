@@ -1,0 +1,6 @@
+author: Robot System Design Laboratory
+email: rsdlab-common@rsdlab.jp
+url: https://www1.meijo-u.ac.jp/~kohara/cms
+repositories:
+    ubuntu1804_x86: [common, ubuntu1804_x64]
+    ubuntu2004_x86: [common, ubuntu2004_x64]
