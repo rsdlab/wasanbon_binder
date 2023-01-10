@@ -1,0 +1,23 @@
+#ConsoleOutput : 
+#  description : 'Console Output RT-component with Long type DataInPort.'
+#  type : git
+#  url : 'https://github.com/sugarsweetrobotics/ConsoleOutput_cpp.git'
+#  platform : 'win, osx, ubuntu'
+
+WebCamera2 :
+  description : 'Web Camera RTC for RTM2.0'
+  type : git
+  url : 'https://github.com/rsdlab/WebCamera2.git'
+  platform : 'win, ubuntu'
+
+SingleArUco2 :
+  description : 'Pose estimation RTC with ArUco marker for RTM2.0'
+  type : git
+  url : 'https://github.com/rsdlab/SingleArUco2.git'
+  platform : 'win, ubuntu'
+
+ImageViewer2 :
+  description : 'Image viewer RTC for RTM2.0'
+  type : git
+  url : 'https://github.com/rsdlab/ImageViewer2.git'
+  platform : 'win, ubuntu'
