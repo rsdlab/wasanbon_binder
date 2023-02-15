@@ -21,3 +21,15 @@ ImageViewer2 :
   type : git
   url : 'https://github.com/rsdlab/ImageViewer2.git'
   platform : 'win, ubuntu'
+
+SFMLJoystick2 :
+  description : 'Joystick Component using SFML Library RTC for RTM2.0'
+  type : git
+  url : https://github.com/rsdlab/SFMLJoystick2.git'
+  platform : 'win, ubuntu'
+
+SFMLJoystickToVelocity2 :
+  description : 'SFMLJoystick data convert to Velocity2D RTC for RTM2.0'
+  type : git
+  url : https://github.com/rsdlab/SFMLJoystickToVelocity2.git'
+  platform : 'win, ubuntu'

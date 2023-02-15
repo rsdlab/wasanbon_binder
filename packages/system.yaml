@@ -3,3 +3,9 @@ MarkerPoseEstimation:
   type: git
   url: https://github.com/rsdlab/MarkerPoseEstimation.git
   platform: win, ubuntu
+
+MobileRobotController:
+  description: Mobile robot controll system with Joystick
+  type: git
+  url: https://github.com/rsdlab/MobileRobotController.git
+  platform: win, ubuntu
