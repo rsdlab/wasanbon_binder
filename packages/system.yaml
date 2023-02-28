@@ -7,5 +7,5 @@ MarkerPoseEstimation:
 MobileRobotControl:
   description: 'Mobile robot control system with Joystick'
   type: git
-  url: 'https://github.com/rsdlab/MobileRobotController.git'
+  url: 'https://github.com/rsdlab/MobileRobotControl.git'
   platform: win, ubuntu
