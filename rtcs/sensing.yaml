@@ -35,7 +35,7 @@ SFMLJoystickToVelocity2 :
   platform : 'win, ubuntu'
 
 mycobotAruco :
-  description : 'Joystick Component using SFML Library RTC for RTM2.0'
+  description : 'myCobot RTC with ArUco marker'
   type : git
   url : 'https://github.com/RTM-summercamp2023/summercamp_2023RTC/tree/main/mycobotAruco'
   platform : 'win, ubuntu'
