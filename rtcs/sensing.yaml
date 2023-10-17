@@ -37,5 +37,5 @@ SFMLJoystickToVelocity2 :
 mycobotAruco :
   description : 'myCobot RTC with ArUco marker'
   type : git
-  url : 'https://github.com/RTM-summercamp2023/summercamp_2023RTC/tree/main/mycobotAruco'
+  url : 'https://github.com/rsdlab/mycobotAruco'
   platform : 'win, ubuntu'
