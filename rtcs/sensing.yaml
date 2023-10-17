@@ -39,3 +39,15 @@ mycobotAruco :
   type : git
   url : 'https://github.com/rsdlab/mycobotAruco'
   platform : 'win, ubuntu'
+
+mycobot_Transform :
+  description : 'Coordinate transformation RTC for ArUco marker'
+  type : git
+  url : 'https://github.com/rsdlab/mycobot_Transform'
+  platform : 'win, ubuntu'
+
+GUIaruco :
+  description : 'GUI RTC for choice marker '
+  type : git
+  url : 'https://github.com/rsdlab/GUIaruco'
+  platform : 'win, ubuntu'
