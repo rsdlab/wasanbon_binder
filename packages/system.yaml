@@ -8,8 +8,3 @@ MobileRobotControl:
   type: git
   url: https://github.com/rsdlab/MobileRobotControl.git
   platform: win, ubuntu
-mycobot_capture:
-  description: mycobotaruco
-  type: git
-  url: https://github.com/rsdlab/mycobot_capture.git
-  platform: win, ubuntu
