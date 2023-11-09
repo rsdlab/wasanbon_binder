@@ -13,3 +13,9 @@ mycobot_hand:
   type: git
   url: https://github.com/rsdlab/mycobot_hand.git
   platform: win, ubuntu
+mycobotSystem:
+  description: mycobotSystem
+  type: git
+  url: https://github.com/rsdlab/mycobotSystem.git
+  platform: win, ubuntu
+
