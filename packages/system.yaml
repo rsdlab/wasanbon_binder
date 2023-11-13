@@ -18,4 +18,10 @@ mycobotSystem:
   type: git
   url: https://github.com/rsdlab/mycobotSystem.git
   platform: win, ubuntu
+choiceSpeak:
+  description: choiceSpeak
+  type: git
+  url: https://github.com/rsdlab/choiceSpeak.git
+  platform: win, ubuntu
+
 
