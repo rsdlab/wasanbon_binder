@@ -8,3 +8,8 @@ MobileRobotControl:
   type: git
   url: https://github.com/rsdlab/MobileRobotControl.git
   platform: win, ubuntu
+exam_system01:
+  description: example of RTSystemBuilder
+  type: git
+  url: https://github.com/rsdlab/exam_system01.git
+  platform: win, ubuntu
