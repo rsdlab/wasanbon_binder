@@ -8,26 +8,3 @@ MobileRobotControl:
   type: git
   url: https://github.com/rsdlab/MobileRobotControl.git
   platform: win, ubuntu
-mycobot_hand:
-  description: mycobot
-  type: git
-  url: https://github.com/rsdlab/mycobot_hand.git
-  platform: win, ubuntu
-mycobotSystem:
-  description: mycobotSystem
-  type: git
-  url: https://github.com/rsdlab/mycobotSystem.git
-  platform: win, ubuntu
-choiceSpeak:
-  description: choiceSpeak
-  type: git
-  url: https://github.com/rsdlab/choiceSpeak.git
-  platform: win, ubuntu
-MikataSystem:
-  description: MikataSystem
-  type: git
-  url: https://github.com/rsdlab/MikataSystem.git
-  platform: win, ubuntu
-
-
-
