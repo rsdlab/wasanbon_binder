@@ -14,7 +14,7 @@ exam_system01:
   url: https://github.com/rsdlab/exam_system01.git
   platform: win, ubuntu
 Indicate_dest:
-  description: example of RTSystemBuilder
+  description: Indication for destination for cui
   type: git
   url: https://github.com/KatoMisa/Indicate_dest.git
   platform: win, ubuntu
