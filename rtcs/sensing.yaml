@@ -51,3 +51,15 @@ GUIaruco :
   type : git
   url : 'https://github.com/rsdlab/GUIaruco'
   platform : 'win, ubuntu'
+
+Navi_cui :
+  description : 'Cui for navigation place'
+  type : git
+  url : 'https://github.com/KatoMisa/Navi_cui'
+  platform : 'win, ubuntu'
+  
+Navi_relay :
+  description : 'Relay for navigation place'
+  type : git
+  url : 'https://github.com/KatoMisa/Navi_relay'
+  platform : 'win, ubuntu'
