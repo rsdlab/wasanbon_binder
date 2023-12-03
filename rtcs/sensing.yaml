@@ -52,16 +52,16 @@ GUIaruco :
   url : 'https://github.com/rsdlab/GUIaruco'
   platform : 'win, ubuntu'
 
-Navi_cui :
-  description : 'Cui for navigation place'
+dest_gui :
+  description : 'RTC for specifying destination using GUI'
   type : git
-  url : 'https://github.com/KatoMisa/Navi_cui'
+  url : 'https://github.com/KatoMisa/dest_gui.git'
   platform : 'win, ubuntu'
-  
-Navi_relay :
-  description : 'Relay for navigation place'
+
+relay_gui :
+  description : 'RTC for sending destination information to ROS'
   type : git
-  url : 'https://github.com/KatoMisa/Navi_relay'
+  url : 'https://github.com/KatoMisa/relay_gui'
   platform : 'win, ubuntu'
 
 exam_module01 :
