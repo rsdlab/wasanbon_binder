@@ -18,8 +18,3 @@ Destination_gui:
   type: git
   url: https://github.com/KatoMisa/Destination_gui.git
   platform: win, ubuntu
-exam_system03:
-  description: example of RTSBuilder
-  type: git
-  url: https://github.com/rsdlab/exam_system03.git
-  platform: win, ubuntu
