@@ -23,3 +23,8 @@ exam_system04:
   type: git
   url: https://github.com/rsdlab/exam_system04.git
   platform: win, ubuntu
+wa_management3:
+  description: management of computer and RTC
+  type: git
+  url: https://github.com/rsdlab/wa_management3.git
+  platform: win, ubuntu
