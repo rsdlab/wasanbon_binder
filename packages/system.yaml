@@ -28,3 +28,10 @@ wa_management3:
   type: git
   url: https://github.com/rsdlab/wa_management3.git
   platform: win, ubuntu
+mycobotSystem:
+  description: mycobot system
+  type: git
+  url: https://github.com/rsdlab/mycobotSystem.git
+  platform: win, ubuntu
+
+  
