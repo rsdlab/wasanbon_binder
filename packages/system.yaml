@@ -38,10 +38,10 @@ wa_management4:
   type: git
   url: https://github.com/rsdlab/wa_management4.git
   platform: win, ubuntu 
-mycobot_move:
-  description: mycobot move
+mycobot_run:
+  description: mycobot run
   type: git
-  url: https://github.com/rsdlab/mycobot_move.git
+  url: https://github.com/rsdlab/mycobot_run.git
   platform: win, ubuntu
 Mycobot_instruction:
   description: mycobot instruction
