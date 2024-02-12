@@ -43,3 +43,8 @@ mycobot_move:
   type: git
   url: https://github.com/rsdlab/mycobot_move.git
   platform: win, ubuntu
+Mycobot_instruction:
+  description: mycobot instruction
+  type: git
+  url: https://github.com/rsdlab/Mycobot_instruction.git
+  platform: win, ubuntu 
