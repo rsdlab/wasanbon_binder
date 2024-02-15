@@ -58,3 +58,10 @@ speaksystem2:
   type: git
   url: https://github.com/rsdlab/speaksystem2.git
   platform: win, ubuntu
+Mycobot:
+  description: mycobot 
+  type: git
+  url: https://github.com/rsdlab/Mycobot.git
+  platform: win, ubuntu 
+
+  
