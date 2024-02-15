@@ -43,10 +43,10 @@ mycobot_move:
   type: git
   url: https://github.com/rsdlab/mycobot_move.git
   platform: win, ubuntu
-Mycobot_instruction:
+Mycobot_Instruction2:
   description: mycobot instruction
   type: git
-  url: https://github.com/rsdlab/Mycobot_instruction.git
+  url: https://github.com/rsdlab/Mycobot_Instruction2.git
   platform: win, ubuntu 
 MikataSystem:
   description: MikataSystem
