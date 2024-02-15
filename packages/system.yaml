@@ -53,5 +53,8 @@ MikataSystem:
   type: git
   url: https://github.com/rsdlab/MikataSystem.git
   platform: win, ubuntu
-
-  
+choiceSpeak:
+  description: choiceSpeak
+  type: git
+  url: https://github.com/rsdlab/choiceSpeak.git
+  platform: win, ubuntu
