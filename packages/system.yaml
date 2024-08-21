@@ -3,6 +3,7 @@ MarkerPoseEstimation:
   type: git
   url: https://github.com/rsdlab/MarkerPoseEstimation.git
   platform: win, ubuntu
+  middleware : OpenRTM
 MobileRobotControl:
   description: Mobile robot control system with Joystick
   type: git
