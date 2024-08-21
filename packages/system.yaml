@@ -8,6 +8,7 @@ MobileRobotControl:
   type: git
   url: https://github.com/rsdlab/MobileRobotControl.git
   platform: win, ubuntu
+  middleware : OpenRTM
 exam_system01:
   description: example of RTSystemBuilder
   type: git
