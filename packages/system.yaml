@@ -68,5 +68,10 @@ nuitrack_ros:
   type: git
   url: https://github.com/rsdlab/nuitrack_body_tracker.git
   platform: win, ubuntu
-
+binder_test:
+  description: Test of system.yaml
+  type: git
+  url: https://github.com/rsdlab/binder_test.git
+  platform: win, ubuntu
+  middleware: ROS
   
