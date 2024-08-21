@@ -71,7 +71,7 @@ nuitrack_ros:
 binder_test:
   description: Test of system.yaml
   type: git
-  url: https://github.com/rsdlab/binder_test.git
+  url: https://github.com/KatoMisa/binder_test.git
   platform: win, ubuntu
-  middleware: ROS
+  middleware: OpenRTM
   
