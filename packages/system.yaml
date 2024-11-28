@@ -76,4 +76,9 @@ binder_test:
   url: https://github.com/KatoMisa/binder_test.git
   platform: win, ubuntu
   middleware: OpenRTM
+ros_package:
+  description: Test of ros
+  type: git
+  url: https://github.com/rsdlab/ros_package.git
+  platform: win, ubuntu
   
