@@ -81,4 +81,10 @@ ros_package:
   type: git
   url: https://github.com/rsdlab/ros_package.git
   platform: win, ubuntu
+MikataArm:
+  description: MikataArm for wasanbon
+  type: git
+  url: https://github.com/rsdlab/MikataArm.git
+  platform: win, ubuntu
+
   
