@@ -96,3 +96,13 @@ health_judge:
   type: git
   url: https://github.com/rsdlab/health_judge.git
   platform: win, ubuntu
+route_guide:
+  description: System for selecting destinations
+  type: git
+  url: https://github.com/rsdlab/route_guide.git
+  platform: win, ubuntu
+sample_seed:
+  description: HRI-Component based ROS for RobotB
+  type: git
+  url: https://github.com/KatoMisa/sample_seed.git
+  platform: ubuntu
