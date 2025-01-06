@@ -117,3 +117,15 @@ risk_monitor :
   type : git
   url : 'https://github.com/rsdlab/risk_monitor.git'
   platform : 'win, ubuntu'
+  
+announce :
+  description : ''
+  type : git
+  url : 'https://github.com/KatoMisa/announce.git'
+  platform : 'win, ubuntu'
+  
+dest_select :
+  description : ''
+  type : git
+  url : 'https://github.com/KatoMisa/dest_select.git'
+  platform : 'win, ubuntu'
