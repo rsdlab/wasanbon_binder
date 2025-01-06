@@ -86,5 +86,9 @@ MikataArm:
   type: git
   url: https://github.com/rsdlab/MikataArm.git
   platform: win, ubuntu
-
+sample_airec:
+  description: HRI-Component based ROS for AIREC
+  type: git
+  url: https://github.com/KatoMisa/sample_airec.git
+  platform: ubuntu
   
