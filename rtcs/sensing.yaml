@@ -93,3 +93,27 @@ ConsoleOUT :
   type : git
   url : 'https://github.com/KatoMisa/ConsoleOUT.git'
   platform : 'win, ubuntu'
+
+recognition0 :
+  description : ''
+  type : git
+  url : 'https://github.com/rsdlab/recognition0.git'
+  platform : 'win, ubuntu'
+
+speaker :
+  description : ''
+  type : git
+  url : 'https://github.com/rsdlab/speaker.git'
+  platform : 'win, ubuntu'
+  
+language_understand :
+  description : ''
+  type : git
+  url : 'https://github.com/rsdlab/language_understand.git'
+  platform : 'win, ubuntu'
+  
+risk_monitor :
+  description : ''
+  type : git
+  url : 'https://github.com/rsdlab/risk_monitor.git'
+  platform : 'win, ubuntu'
