@@ -91,4 +91,8 @@ sample_airec:
   type: git
   url: https://github.com/KatoMisa/sample_airec.git
   platform: ubuntu
-  
+health_judge:
+  description: Dialogue system for health checks
+  type: git
+  url: https://github.com/rsdlab/health_judge.git
+  platform: win, ubuntu
