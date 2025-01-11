@@ -106,3 +106,8 @@ sample_seed:
   type: git
   url: https://github.com/KatoMisa/sample_seed.git
   platform: ubuntu
+speech_word:
+  description: Speech service based on the RoIS Framework
+  type: git
+  url: https://github.com/KatoMisa/speech_word.git
+  platform: ubuntu
