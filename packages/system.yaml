@@ -101,13 +101,13 @@ route_guide:
   type: git
   url: https://github.com/KatoMisa/route_guide.git
   platform: win, ubuntu
-speech_word:
-  description: Speech service based on the RoIS Framework
+airec_hri:
+  description: HRI-Components based ROS for AIREC
   type: git
-  url: https://github.com/KatoMisa/speech_word.git
+  url: https://github.com/rsdlab/airec_hri.git
   platform: ubuntu
-monitoring:
-  description: Monitoring service based on RoIS Framework
+seed_hri:
+  description: HRI-Components based ROS for SEED
   type: git
-  url: https://github.com/KatoMisa/monitoring.git
+  url: https://github.com/rsdlab/seed_hri.git
   platform: ubuntu
